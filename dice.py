@@ -1,6 +1,6 @@
 import random
 # Ask user to print
-print("Welcome to Roll Dicer BY Aniket JOshi ;)🧡🧡")
+print("Welcome to Roll Dicer BY Aniket Joshi ;)🧡🧡")
 user=str(input("Enter [R] to Roll a Dice:"))
 roll=0
 while (roll<15):
